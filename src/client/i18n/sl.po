@@ -468,7 +468,7 @@ msgstr "Pregledovalnik poti"
 
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:637
 msgid "late as"
-msgstr ""
+msgstr "Najkasneje ob"
 
 #. Stay on board/Alight [at stop name]
 #: src/client/js/otp/modules/planner/ItinerariesWidget.js:643
@@ -544,7 +544,7 @@ msgstr ""
 msgid ""
 "We're sorry. The trip planner is temporarily unavailable. Please try "
 "again later."
-msgstr "Opravičujemo se. Daljinar trenutno ni na voljo. Prosimo poskusite kasneje."
+msgstr "Opravičujemo se. Načrtovalec poti trenutno ni na voljo. Prosimo poskusite kasneje."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:100
 msgid ""
@@ -568,15 +568,15 @@ msgid ""
 " or there may not be transit service for your trip at the time you chose."
 msgstr ""
 "Podatki o voznih redih niso na voljo. Mogoče je datum preveč v "
-"preteklosti ali prihodnosti ali pa javni prevoz ne obstaja za pot, ki jo "
-"načrtujete."
+"preteklosti ali prihodnosti ali pa javni prevoz  za pot, ki jo "
+"načrtujete ne obstaja."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:103
 msgid ""
 "The trip planner is taking way too long to process your request. Please "
 "try again later."
 msgstr ""
-"Daljinar potrebuje preveč časa za obdelavo vašega zahtevka. Prosimo "
+"Načrtovalec poti potrebuje preveč časa za obdelavo vašega zahtevka. Prosimo "
 "poskusite znova kasneje."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:104
@@ -603,19 +603,21 @@ msgstr "Do začetka in konca ni mogoče priti z vozičkom."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:109
 msgid "Origin is within a trivial distance of the destination."
-msgstr "Začetek je trivialno oddaljen od konec."
+msgstr "Začetek poti je minimalno oddaljen od koneca poti."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:111
 msgid ""
 "The trip planner is unsure of the location you want to start from. Please"
 " select from the following options, or be more specific."
-msgstr ""
+msgstr "Načrtovalec poti ne more najti lokacije začetne točke. Prosimo"
+"izberite med naslednjimi opcijami ali bodite bolj natančni."
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:112
 msgid ""
 "The trip planner is unsure of the destination you want to go to. Please "
 "select from the following options, or be more specific."
-msgstr ""
+msgstr "Načrtovalec poti ne najde izbrane poti. Prosimo"
+"izberite med naslednjimi opcijami ali bodite bolj natančni. "
 
 #: src/client/js/otp/modules/planner/PlannerModule.js:113
 msgid ""
